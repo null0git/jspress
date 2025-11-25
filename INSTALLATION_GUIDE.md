@@ -47,7 +47,7 @@ npm --version
 
 \`\`\`bash
 # Clone from Git
-git clone https://github.com/yourusername/jspress.git
+git clone https://github.com/null0git/jspress.git
 cd jspress
 
 # Or download and extract the ZIP file
