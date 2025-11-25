@@ -1,5 +1,10 @@
 # JsPress - Modern CMS
 
+![Status](https://img.shields.io/badge/Status-Not%20Production%20Ready-red)
+![Warning](https://img.shields.io/badge/Warning-Many%20Issues-critical)
+![Stage](https://img.shields.io/badge/Stage-Alpha-orange)
+
+
 A production-ready, fully-installable CMS built with Next.js. No coding required for end users.
 
 ## Features
