@@ -24,14 +24,14 @@ A production-ready, fully-installable CMS built with Next.js. No coding required
 
 1. Download the project
 2. Install dependencies:
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 3. Run the development server:
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 4. Open [http://localhost:3000/install](http://localhost:3000/install) in your browser
 5. Follow the installation wizard
@@ -51,7 +51,7 @@ After setup, you can access:
 
 ## Project Structure
 
-\`\`\`
+```
 /app
   /admin              # Admin panel pages
   /api               # API routes for backend logic
@@ -68,7 +68,7 @@ After setup, you can access:
   # Configuration files
 /public
   # Static assets
-\`\`\`
+```
 
 ## Database
 
@@ -120,11 +120,11 @@ The CMS can run on any Node.js hosting platform:
 
 ## Environment Variables
 
-\`\`\`env
+```env
 # Required in production
 JWT_SECRET=your-secret-key-here
 DATABASE_URL=sqlite:cms.db  # or postgres://...
-\`\`\`
+```
 
 ## Development
 
